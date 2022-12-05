@@ -1,0 +1,5 @@
+Mã nhân viên: KT001
+: Tên nhân viên: Nguyễn Văn A
+: Ngày sinh: 12/2/2000
+ Chức vụ: Kế toán
+ Lương: 15000000

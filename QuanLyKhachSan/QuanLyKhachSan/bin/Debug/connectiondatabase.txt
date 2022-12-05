@@ -1,0 +1,1 @@
+server=DESKTOP-CMADKP6\SLOTH;database=QLKhachSan;integrated security=true
